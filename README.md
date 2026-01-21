@@ -1,102 +1,112 @@
 <!-- Greeting -->
-# Hey there! 👋
+# Hey there! 👋😄
 
 <!-- Introduction -->
-I'm **Daniel Orozco**, a **Software Engineer & Full Stack .NET Developer** with experience building **enterprise and government-grade web systems**.  
-I specialize in **.NET (ASP.NET Core), Angular, Oracle & SQL-based architectures**, delivering **scalable, secure and high-performance solutions**.
+I'm **Daniel Orozco** — a **Full Stack Software Developer** 💻  
+I enjoy building **robust, scalable and efficient software**, turning ideas into real-world solutions 🌍.
 
-I’ve worked on **consulting projects**, **public-sector platforms**, and **data-driven systems**, focusing on clean architecture, maintainability, and real business impact.
+I'm passionate about **clean code**, **problem solving**, and **continuous learning** 📚.  
+I like working across the stack, from **frontend experiences** to **backend logic and databases**.
 
-💡 I enjoy solving complex problems, improving legacy systems, and turning requirements into robust software.
-
----
-
-## 🧑‍💻 About Me
-
-- 💼 **Software Engineer / Full Stack Developer**
-- 🏛️ Experience in **public institutions & enterprise environments**
-- 🧱 Strong background in **Microsoft stack & relational databases**
-- ⚙️ Focused on **clean architecture, performance & scalability**
-- 🚀 Always learning and improving
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+<em><b>I enjoy connecting with people</b> and collaborating on meaningful projects.  
+If you want to say hi, I’ll be happy to connect! 😊</em>
 
 ---
 
-## 💼 Professional Experience Highlights
-
-### 🏢 Wasi Innovation – INGEMMET (Peru)
-**Software Engineer**  
-- Developed web applications using **.NET 8 & Angular**
-- Applied **DDD-based architectures** in enterprise systems
-- Designed and implemented **Oracle databases**
-- Worked with **Git, Agile methodologies**, and cross-functional teams
-- Performed **analysis, data modeling, prototyping, and requirement definition**
-
-### 🏢 Public Sector Projects (ANA, APEPS)
-**Software Engineer**
-- Built critical information management modules using **ASP.NET Core**
-- Designed and optimized **Oracle databases**, stored procedures & indexes
-- Implemented **secure backend services (C#)** with async JS integration
-- Led technical improvements, refactoring & performance optimization
-- Technical leadership over small dev teams
-
-### 🏢 ORASAP S.A.C
-**Systems Engineering Intern – Developer**
-- End-to-end development of enterprise web applications
-- Applied **ASP.NET Core MVC, Dependency Injection**
-- Performance optimization (caching, compression, optimized queries)
+<!-- Badges (replace links later if you want) -->
+[![GitHub](https://img.shields.io/badge/GitHub-DanielOrozco-black?style=flat&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanielOrozco-blue?style=flat&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-deorzco2@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:deorzco2@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+<!-- Profile views -->
+![](https://komarev.com/ghpvc/?username=danielorozco&style=flat)
 
-### Backend
-- **C#**, **.NET / ASP.NET Core**
-- REST APIs, MVC, Clean Architecture, DDD
-- Entity Framework, Stored Procedures
+<!-- Right image -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png"
+     alt="dev_object"
+     align="right"
+     width="480" />
 
-### Frontend
-- **Angular**, **Vue.js**
-- HTML5, CSS3, JavaScript
-- Modular & component-based design
+---
 
-### Databases
-- **Oracle**, **SQL Server**
-- Relational design, optimization, indexing
-- SQL & PL/SQL
+## 🧠 What I’m Good At
 
-### Dev & Tools
-- Git / GitHub
+- 🔍 Analytical thinking & problem solving
+- 🧩 Designing scalable software solutions
+- ⚙️ Turning requirements into clean, maintainable code
+- 🔐 Building secure, data-driven applications
+- 🤝 Team collaboration & clear communication
+
+---
+
+## 🚀 Things I’m Currently Focusing On
+
+- Improving **full stack architectures**
+- Writing **clean & optimized backend code**
+- Building **modern frontend interfaces**
+- Strengthening **database design & performance**
+- Continuous learning and technical growth 🌱
+
+---
+
+## 🧩 Core Skills
+
+### 💻 Programming & Development
+- **C# / .NET / ASP.NET Core**
+- **JavaScript (ES6+)**
+- REST APIs & backend services
+- MVC & layered architectures
+
+### 🎨 Frontend
+- **Angular**
+- **Vue.js**
+- HTML5, CSS3
+- Responsive & modular UI design
+
+### 🗄️ Databases
+- **Oracle**
+- **SQL Server**
+- Relational modeling
+- Query optimization & stored procedures
+
+### 🛠️ Tools & Environment
+- Git & GitHub
 - Linux & Windows
 - Bash scripting
-- Agile / Scrum
+- Agile / Scrum workflows
 
 ---
 
-## 📚 Education & Certifications
+## 🌱 Personal Challenges
 
-- 🎓 **B.Sc. in Systems Engineering** – Universidad Católica Sedes Sapientiae
-- 📜 .NET & ASP.NET MVC (Udemy)
-- 📜 Angular (Complete Guide – 2025)
-- 📜 Database Design & Oracle Administration
-- 📜 SQL, Excel, Web Development (Netzun)
-
----
-
-## 🌱 Currently Focused On
-
-- Improving **enterprise architecture & system scalability**
-- Advanced **.NET & Angular patterns**
-- Database performance & data-driven solutions
-- Continuous professional growth 🚀
+- 🧠 Learn something new every day
+- 🧪 Improve code quality & readability
+- 📖 Stay updated with tech trends
+- ⚡ Build things that actually solve problems
 
 ---
 
-## 📫 Let’s Connect
+## 🧰 Languages & Tools
 
-- 📧 **Email:** deorzco2@gmail.com  
-- 💼 **LinkedIn:** *(add your real LinkedIn URL here)*  
-- 🌍 Open to **collaboration, consulting & challenging projects**
+<p>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<br>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle/oracle.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+</p>
 
 ---
 
-<h4 align="center">Thanks for visiting my profile! 🙌</h4>
+<h4 align="center">Thanks for stopping by! 🙌</h4>
